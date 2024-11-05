@@ -21,8 +21,9 @@ author: Jim Feyereisen
 
 navbar-links:
   About Me: "aboutme"
-  My Apps:
-    - TileTrail: "https://jimfeyereisen.github.io/tiletrail/"
+  TileTrail:
+    - Website: "https://jimfeyereisen.github.io/tiletrail/"
+    - iOS App: "https://apps.apple.com/us/app/tiletrail/id6503223875?itsct=apps_box_link&itscg=30200"
 
 ################
 # --- Logo --- #
@@ -50,10 +51,10 @@ navbar-links:
 social-network-links:
   instagram: tiletrail_game
   facebook: TileTrail
+  twitter: tiletrail_game
   github: jimfeyereisen
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-# email: "someone@example.com"
-#  twitter: daattali
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  email: "someone@example.com"
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
@@ -83,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Install TileTrail now!
+# rss-description: Install TileTrail now!
 
 ###########################
 # --- General options --- #
