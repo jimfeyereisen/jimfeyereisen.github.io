@@ -20,7 +20,7 @@ author: Jim Feyereisen
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   TileTrail:
     - Website: "https://jimfeyereisen.github.io/tiletrail/"
     - iOS App: "https://apps.apple.com/us/app/tiletrail/id6503223875?itsct=apps_box_link&itscg=30200"
