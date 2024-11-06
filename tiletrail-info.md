@@ -2,6 +2,7 @@
 layout: page
 title: TileTrail
 subtitle: A simple memory game
+cover-img: "/assets/img/background"
 ---
 
 TileTrail is the first mobile app that I developed. It is a simple and casual game which challenges your memory. TileTrail is currently available on the App Store for iPhone.
