@@ -1,7 +1,5 @@
 ---
 layout: page
-title: TileTrail
-subtitle: A simple memory game
 cover-img: "/assets/img/background.png"
 ---
 
