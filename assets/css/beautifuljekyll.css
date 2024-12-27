@@ -17,7 +17,6 @@ layout: null
   --footer-text-col: {{ site.footer-text-col | default: "#777777" }};
   --footer-link-col: {{ site.footer-link-col | default: "#404040" }};
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
-  --header-col: {{ site.header-col | default: "#000000" }};
 
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
@@ -59,7 +58,6 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  color: var(--header-col);
   font-size: 2.25rem;
 }
 h2 {
