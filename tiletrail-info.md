@@ -3,7 +3,9 @@ layout: page
 cover-img: "/assets/img/background.png"
 ---
 
-TileTrail is the first mobile app that I developed. It is a simple and casual game which challenges your memory. TileTrail is currently available on the App Store for iPhone.
+TileTrail is the first mobile app that I have created. I always enjoyed tricky brain teasers and memory games. One day, I decided to develop such a game on my own. I took inspiration from a retro game with 4 blinking tiles which I always liked to play. I added different modes, in-game currency and themes to make the game more exciting and less monotonous.
+Currently, TileTrail is available on the App Store for iPhone.
+
 
 You can visit the [TileTrail website](https://jimfeyereisen.github.io/tiletrail/) for further information.
 
