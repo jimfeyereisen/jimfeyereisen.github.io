@@ -48,8 +48,8 @@ navbar-links:
 social-network-links:
   instagram: tiletrail_game
   facebook: TileTrail
-  twitter: tiletrail_game
   github: jimfeyereisen
+#  twitter: tiletrail_game
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  email: "someone@example.com"
 #  patreon: DeanAttali
